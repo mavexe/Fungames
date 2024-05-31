@@ -13,3 +13,5 @@ In this case math problem -> C(6,3) = 6!/3!*(6-3)! = 20 <--
 
 But we have the "Weights" of the players so we need to combine all logic including the weights.
 
+# Players
+![изображение](https://github.com/mavexe/Fungames/assets/82767270/187a7312-fd30-4f1e-a392-2cf5919fd683)
