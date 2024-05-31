@@ -4,7 +4,7 @@
 
 Here's the stats of our players
 
-##Math & Explanation
+## Math & Explanation
 
 We have C(n,k) = n!*(n-k)! (Where's n=8 k=4) methods of divide 8 people in 2 groups stricly(e.c. 50/50) C(8,4)=8!/(4!*4!)=70
 But! VItalya does not wants to join into the Marat group -> We need to cut all of the cominations where Marat and Vitalya in one group
