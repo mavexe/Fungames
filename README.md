@@ -15,3 +15,6 @@ But we have the "Weights" of the players so we need to combine all logic includi
 
 # Players
 ![изображение](https://github.com/mavexe/Fungames/assets/82767270/187a7312-fd30-4f1e-a392-2cf5919fd683)
+
+# Example
+![изображение](https://github.com/mavexe/Fungames/assets/82767270/407e2f31-71c4-44a6-b0fe-0ba0be11e1a5)
