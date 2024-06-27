@@ -14,40 +14,38 @@ Windows
 
    3) Clone the Repository:
         Open a terminal and run
-```
+      
     git clone https://github.com/yourusername/tetris-game.git
     cd tetris-game
-```
+
 Compile the Game:
 
     In the terminal, run:
-    ```
+
      g++ -o tetris tetris.cpp -lncurses
-    ```
 
     
 2) Linux
 
     Install ncurses:
         Open a terminal and run:
-```
+   
     sudo apt-get install libncurses5-dev libncursesw5-dev
-```
+   
 Clone the Repository:
 
     In the terminal, run:
-    ```
+   
     git clone https://github.com/yourusername/tetris-game.git
     cd tetris-game
-    ```
+
+
 Compile the Game:
 
     In the terminal, run:
-    ```
+    
         g++ -o tetris tetris.cpp -lncurses
-    ```
-
-
+   
 
     
 Running the Game
@@ -56,28 +54,24 @@ Windows
     Open a terminal (cmd, PowerShell, or Git Bash).
     Navigate to the tetris-game directory:
 
-```
 cd path\to\tetris-game
-```
+
 Run the game:
 
-```
     tetris.exe
-```
+
 
 Linux
 
     Open a terminal.
     Navigate to the tetris-game directory:
 
-```
 cd path/to/tetris-game
-```
 
 Run the game:
-```
+
     ./tetris
-```
+
 
 Controls
 
